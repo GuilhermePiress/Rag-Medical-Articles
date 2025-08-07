@@ -1,0 +1,12 @@
+openai
+langchain
+langchain-openai
+faiss-cpu
+streamlit
+pymupdf
+python-pptx
+langchain-community
+langchain-core
+
+
+
