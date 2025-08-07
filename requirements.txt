@@ -7,6 +7,6 @@ pymupdf
 python-pptx
 langchain-community
 langchain-core
-
+pypdf
 
 
