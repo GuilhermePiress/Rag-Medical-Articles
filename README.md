@@ -51,6 +51,6 @@ Clone o repositório e instale os requisitos:
 
 ```bash
 git clone https://github.com/seu-usuario/doutora-sarah.git
-cd doutora-sarah
+cd RAG-MEDICAL-ARTICLES
 pip install -r requirements.txt
 streamlit run app.py
